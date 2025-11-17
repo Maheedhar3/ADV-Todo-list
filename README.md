@@ -4,10 +4,10 @@
 A feature-rich and modern to-do management web application built using **React, TypeScript, and Vite**.  
 This project aims to solve real productivity needs by combining scheduling, recurring tasks, filtering, and calendar-based navigation—all inside a clean, minimal UI.
 
-## View Project
-
-**Link: ** https://advancedtodo-maheedhar3s-projects.vercel.app?_vercel_share=2pLhWvoGnSAgo93ratzwfkTFbHzTf4KJ
 ---
+# View Demo
+**link: ** https://advancedtodo-maheedhar3s-projects.vercel.app?_vercel_share=2pLhWvoGnSAgo93ratzwfkTFbHzTf4KJ
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
